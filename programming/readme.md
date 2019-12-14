@@ -11,3 +11,4 @@
 ## Accessibility
 
 - [Using aria-live](https://bitsofco.de/using-aria-live/)
+- [Inclusive components](https://www.smashingmagazine.com/2019/12/inclusive-components-release/)
