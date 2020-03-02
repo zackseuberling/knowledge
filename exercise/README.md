@@ -31,3 +31,5 @@ Do each exercise for 60 seconds
 12. Side plank
 
 ![7 minute workout](./7-minute-workout.jpg)
+
+- [The Minimalist’s Strength Workout](https://getpocket.com/explore/item/the-minimalist-s-strength-workout)
