@@ -1,3 +1,7 @@
+### Links
+
+- https://darebee.com/ An independent global fitness resource
+
 ### Tabata
 
 This is an adapted version of [Tabata](https://en.wikipedia.org/wiki/High-intensity_interval_training#Tabata_regimen)
