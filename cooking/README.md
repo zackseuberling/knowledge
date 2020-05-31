@@ -11,3 +11,7 @@
 ### Cast Iron
 
 - [One Skillet Saucy Chicken Tortilla Enchilada Rice Bake](https://www.halfbakedharvest.com/chicken-tortilla-enchilada-rice-bake/)
+
+### Pasta
+
+- [Orecchiette, sausage, beans and kale](https://apnews.com/4378c3679cb5435ca4c62b8b6ff3fa5c/Pasta-loaded-with-tender-bites-of-sausage,-kale-and-beans)
